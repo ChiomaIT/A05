@@ -2,7 +2,7 @@
 
 Create a **private** GitHub repository named **A05**.
 
-Your grade on this assignment is based on the correctness of your solutions and also your commit history.  Every time you begin working on a problem, push it to the ProblemP branch (where P is the problem number) of your A02 repo and every time you stop working on a problem, push again to your ProblemP branch.    
+Your grade on this assignment is based on the correctness of your solutions and also your commit history.  Every time you begin working on a problem, push it to the ProblemP branch (where P is the problem number) of your A05 repo and every time you stop working on a problem, push again to your ProblemP branch.    
 
 ## Problem #1 - Recursion
 

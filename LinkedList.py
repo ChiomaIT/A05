@@ -87,3 +87,7 @@ if __name__ == '__main__':
 
     llist.delete_at_index(0)
     print(f'\nnode 0 removed:\n\t {llist}')
+
+
+
+
